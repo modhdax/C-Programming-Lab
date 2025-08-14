@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <conio.h>
-void main()
+void abstract()
 { /*Pogram to Subtract two numbers */
    int a,b,c;
    clrscr();
@@ -9,4 +9,5 @@ void main()
    c=a-b;
    printf("%d-%d=%d\n",a,b,c);
    getch();
+
 }
