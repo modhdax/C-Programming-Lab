@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <conio.h>
-void abstract()
+void subtract()
 { /*Pogram to Subtract two numbers */
    int a,b,c;
    clrscr();
@@ -11,3 +11,4 @@ void abstract()
    getch();
 
 }
+
