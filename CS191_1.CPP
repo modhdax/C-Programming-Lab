@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <conio.h>
-void main()
+void sum()
 { /* program to add Nos.*/
   int a,b,c;
   clrscr();
@@ -10,3 +10,4 @@ void main()
   printf("%d+%d=%d\n",a,b,c);
   getch();
 }
+
