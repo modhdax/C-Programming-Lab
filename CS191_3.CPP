@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <conio.h>
 void multiply()
-{ /*Pogram to Subtract two numbers */
+{ /*Pogram to Multiply two numbers */
    int a,b,c;
    clrscr();
    printf("Enter 2 Numbers");
@@ -9,4 +9,5 @@ void multiply()
    c=a*b;
    printf("%d*%d=%d\n",a,b,c);
    getch();
+
 }
